@@ -1,4 +1,4 @@
-# Lead Processing System for Large Retail Organization
+# Lead Processing System for Denmark's Largest Retail Organization
 
 This repository contains the code for a lead processing system developed for the largest retail organization in Denmark. The system was designed to handle and process leads generated from a marketing campaign on Meta platforms (such as Facebook and Instagram). The goal of the campaign was to drive membership signups by showing targeted ads to specific user groups. Once a user interacted with the ad and submitted their details, the system would automate the processing of their lead data.
 
